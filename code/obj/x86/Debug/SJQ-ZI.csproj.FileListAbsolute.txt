@@ -1,0 +1,95 @@
+E:\IndexComputerProgram\sjq computer program and services\sjq\ZI\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\IndexComputerProgram\sjq computer program and services\sjq\ZI\obj\x86\Debug\Interop.ADOX.dll
+E:\IndexComputerProgram\sjq computer program and services\sjq\ZI\obj\x86\Debug\SJQ-ZI.csproj.ResolveComReference.cache
+E:\IndexComputerProgram\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.BaseData.resources
+E:\IndexComputerProgram\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.DataVerify.resources
+E:\IndexComputerProgram\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.LoginForm.resources
+E:\IndexComputerProgram\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.MainForm.resources
+E:\IndexComputerProgram\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.OptionForm.resources
+E:\IndexComputerProgram\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.Properties.Resources.resources
+E:\IndexComputerProgram\sjq computer program and services\sjq\ZI\obj\x86\Debug\ResGen.read.1.tlog
+E:\IndexComputerProgram\sjq computer program and services\sjq\ZI\obj\x86\Debug\ResGen.write.1.tlog
+E:\IndexComputerProgram\sjq computer program and services\sjq\ZI\bin\x86\Debug\ZI.exe.config
+E:\IndexComputerProgram\sjq computer program and services\sjq\ZI\bin\x86\Debug\ZI.exe
+E:\IndexComputerProgram\sjq computer program and services\sjq\ZI\bin\x86\Debug\ZI.pdb
+E:\IndexComputerProgram\sjq computer program and services\sjq\ZI\bin\x86\Debug\ZedGraph.dll
+E:\IndexComputerProgram\sjq computer program and services\sjq\ZI\bin\x86\Debug\Interop.ADOX.dll
+E:\IndexComputerProgram\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.exe
+E:\IndexComputerProgram\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.pdb
+F:\e\IndexComputerProgram\sjq computer program and services\sjq\ZI\bin\x86\Debug\ZI.exe.config
+F:\e\IndexComputerProgram\sjq computer program and services\sjq\ZI\obj\x86\Debug\Interop.ADOX.dll
+F:\e\IndexComputerProgram\sjq computer program and services\sjq\ZI\obj\x86\Debug\SJQ-ZI.csproj.ResolveComReference.cache
+F:\e\IndexComputerProgram\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.exe
+F:\e\IndexComputerProgram\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.pdb
+F:\e\IndexComputerProgram\sjq computer program and services\sjq\ZI\bin\x86\Debug\ZI.exe
+F:\e\IndexComputerProgram\sjq computer program and services\sjq\ZI\bin\x86\Debug\ZI.pdb
+F:\e\IndexComputerProgram\sjq computer program and services\sjq\ZI\bin\x86\Debug\ZedGraph.dll
+F:\e\IndexComputerProgram\sjq computer program and services\sjq\ZI\bin\x86\Debug\Interop.ADOX.dll
+F:\e\IndexComputerProgram\sjq computer program and services\sjq\ZI\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\e\IndexComputerProgram\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.BaseData.resources
+F:\e\IndexComputerProgram\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.DataVerify.resources
+F:\e\IndexComputerProgram\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.LoginForm.resources
+F:\e\IndexComputerProgram\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.MainForm.resources
+F:\e\IndexComputerProgram\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.OptionForm.resources
+F:\e\IndexComputerProgram\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.Properties.Resources.resources
+F:\e\IndexComputerProgram\sjq computer program and services\sjq\ZI\obj\x86\Debug\ResGen.read.1.tlog
+F:\e\IndexComputerProgram\sjq computer program and services\sjq\ZI\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\muxh\Desktop\sjq computer program and services\sjq\ZI\bin\x86\Debug\ZI.exe.config
+C:\Users\muxh\Desktop\sjq computer program and services\sjq\ZI\obj\x86\Debug\Interop.ADOX.dll
+C:\Users\muxh\Desktop\sjq computer program and services\sjq\ZI\obj\x86\Debug\SJQ-ZI.csproj.ResolveComReference.cache
+C:\Users\muxh\Desktop\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.exe
+C:\Users\muxh\Desktop\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.pdb
+C:\Users\muxh\Desktop\sjq computer program and services\sjq\ZI\bin\x86\Debug\ZI.exe
+C:\Users\muxh\Desktop\sjq computer program and services\sjq\ZI\bin\x86\Debug\ZI.pdb
+C:\Users\muxh\Desktop\sjq computer program and services\sjq\ZI\bin\x86\Debug\ZedGraph.dll
+C:\Users\muxh\Desktop\sjq computer program and services\sjq\ZI\bin\x86\Debug\Interop.ADOX.dll
+C:\Users\muxh\Desktop\sjq computer program and services\sjq\ZI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\muxh\Desktop\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.BaseData.resources
+C:\Users\muxh\Desktop\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.DataVerify.resources
+C:\Users\muxh\Desktop\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.LoginForm.resources
+C:\Users\muxh\Desktop\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.MainForm.resources
+C:\Users\muxh\Desktop\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.OptionForm.resources
+C:\Users\muxh\Desktop\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.Properties.Resources.resources
+C:\Users\muxh\Desktop\sjq computer program and services\sjq\ZI\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\muxh\Desktop\sjq computer program and services\sjq\ZI\obj\x86\Debug\ResGen.write.1.tlog
+E:\资料\sjq computer program and services\sjq computer program and services\sjq\ZI\bin\x86\Debug\ZI.exe.config
+E:\资料\sjq computer program and services\sjq computer program and services\sjq\ZI\obj\x86\Debug\Interop.ADOX.dll
+E:\资料\sjq computer program and services\sjq computer program and services\sjq\ZI\obj\x86\Debug\SJQ-ZI.csproj.ResolveComReference.cache
+E:\资料\sjq computer program and services\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.exe
+E:\资料\sjq computer program and services\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.pdb
+E:\资料\sjq computer program and services\sjq computer program and services\sjq\ZI\bin\x86\Debug\ZI.exe
+E:\资料\sjq computer program and services\sjq computer program and services\sjq\ZI\bin\x86\Debug\ZI.pdb
+E:\资料\sjq computer program and services\sjq computer program and services\sjq\ZI\bin\x86\Debug\ZedGraph.dll
+E:\资料\sjq computer program and services\sjq computer program and services\sjq\ZI\bin\x86\Debug\Interop.ADOX.dll
+E:\资料\sjq computer program and services\sjq computer program and services\sjq\ZI\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\资料\sjq computer program and services\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.BaseData.resources
+E:\资料\sjq computer program and services\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.DataVerify.resources
+E:\资料\sjq computer program and services\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.LoginForm.resources
+E:\资料\sjq computer program and services\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.MainForm.resources
+E:\资料\sjq computer program and services\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.OptionForm.resources
+E:\资料\sjq computer program and services\sjq computer program and services\sjq\ZI\obj\x86\Debug\ZI.Properties.Resources.resources
+E:\资料\sjq computer program and services\sjq computer program and services\sjq\ZI\obj\x86\Debug\ResGen.read.1.tlog
+E:\资料\sjq computer program and services\sjq computer program and services\sjq\ZI\obj\x86\Debug\ResGen.write.1.tlog
+E:\cj\work\sjq\sjq\ZI\bin\x86\Debug\ZI.exe.config
+E:\cj\work\sjq\sjq\ZI\bin\x86\Debug\ZI.exe
+E:\cj\work\sjq\sjq\ZI\bin\x86\Debug\ZI.pdb
+E:\cj\work\sjq\sjq\ZI\bin\x86\Debug\ZedGraph.dll
+E:\cj\work\sjq\sjq\ZI\bin\x86\Debug\Interop.ADOX.dll
+E:\cj\work\sjq\sjq\ZI\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\cj\work\sjq\sjq\ZI\obj\x86\Debug\Interop.ADOX.dll
+E:\cj\work\sjq\sjq\ZI\obj\x86\Debug\SJQ-ZI.csproj.ResolveComReference.cache
+E:\cj\work\sjq\sjq\ZI\obj\x86\Debug\ZI.MainForm.resources
+E:\cj\work\sjq\sjq\ZI\obj\x86\Debug\ZI.NewProject.resources
+E:\cj\work\sjq\sjq\ZI\obj\x86\Debug\ZI.OpenProject.resources
+E:\cj\work\sjq\sjq\ZI\obj\x86\Debug\ZI.OptionForm.resources
+E:\cj\work\sjq\sjq\ZI\obj\x86\Debug\ZI.Properties.Resources.resources
+E:\cj\work\sjq\sjq\ZI\obj\x86\Debug\ZI.Test.resources
+E:\cj\work\sjq\sjq\ZI\obj\x86\Debug\ResGen.read.1.tlog
+E:\cj\work\sjq\sjq\ZI\obj\x86\Debug\ResGen.write.1.tlog
+E:\cj\work\sjq\sjq\ZI\obj\x86\Debug\ZI.exe
+E:\cj\work\sjq\sjq\ZI\obj\x86\Debug\ZI.pdb
+E:\work\指数系统\ZI0805\bin\x86\Debug\ZI.exe.config
+E:\work\指数系统\ZI0805\obj\x86\Debug\Interop.ADOX.dll
+E:\work\指数系统\ZI0805\obj\x86\Debug\SJQ-ZI.csproj.ResolveComReference.cache
+E:\work\指数系统\ZI0805\obj\x86\Debug\ZI.exe
+E:\work\指数系统\ZI0805\obj\x86\Debug\ZI.pdb
